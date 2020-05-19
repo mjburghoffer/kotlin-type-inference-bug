@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-type-inference-bug'
+
+include 'bug-example'

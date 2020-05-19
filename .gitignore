@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+
+# Intellij files
+.idea/
+!.idea/runConfigurations/
+out/
+build/
+*.iml
+
+# OS Files
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Gradle
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
