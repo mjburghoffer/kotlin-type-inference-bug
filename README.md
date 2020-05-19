@@ -1,4 +1,4 @@
-In order to replicate the bug:
+In order to replicate the bug that halts IntelliJ:
 
 1. Install IntelliJ IDEA 2020
 1. Use kotlin plugin 1.3.71 or better
